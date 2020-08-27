@@ -1,5 +1,7 @@
 {
   "name": "estres",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
